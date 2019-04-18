@@ -1,2 +1,2 @@
-# sorting
-Sorting algorithm in c++.
+# Sorting Algorithm
+- qsort.cpp (Quick Sort)
