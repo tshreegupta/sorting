@@ -10,7 +10,8 @@ int main()
 {
   int arr[10] = {-1,2,3,10,94,0,34,42,32,2};
 
-  qsort<int>(arr,0,9);
+  // qsort<int>(arr,0,9);
+  mergeSort<int>(arr,0,9);
 
   for(int i =0;i<10;i++)
     std::cout<<arr[i]<<"\t";

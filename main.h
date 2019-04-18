@@ -8,6 +8,7 @@ Purpose:
 #include<stdlib.h>
 #include<iostream>
 #include "qsort.cpp"
+#include "mergeSort.cpp"
 
 //Quick sort Algorithm
 template<class T>
